@@ -6,5 +6,4 @@ def modulo():
   resultado = a % b
   return resultado
 
-
 modulo()
