@@ -5,4 +5,5 @@ def modulo():
   b = int(input('Ingrese el segundo parametro: '))
   resultado = a % b
   return resultado
+
 modulo()
