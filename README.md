@@ -7,5 +7,4 @@
 - Fátima Llopart
 - Ezequiel Lutther
 - Martiniano Lurgo
-- Sofía Micaela	Mamani Carrizo 
 - Mafone Gabriel
